@@ -1,7 +1,7 @@
 {
   "name": "self-closing-tags",
   "description": "HTML void elements are not the only self-closing tags. This includes common SVG self-closing elements as well.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/self-closing-tags",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/self-closing-tags",
@@ -41,15 +41,19 @@
     "plugins": [
       "gulp-format-md"
     ],
-    "lint": {
-      "reflinks": true
-    },
     "related": {
-      "list": []
+      "list": [
+        "is-self-closing",
+        "html-tag",
+        "snapdragon-cheerio"
+      ]
     },
     "reflinks": [
       "verb",
       "verb-generate-readme"
-    ]
+    ],
+    "lint": {
+      "reflinks": true
+    }
   }
 }
