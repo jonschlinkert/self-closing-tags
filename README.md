@@ -32,6 +32,12 @@ var svgElements = require('self-closing-tags').svgElements;
 
 ## About
 
+### Related projects
+
+* [html-tag](https://www.npmjs.com/package/html-tag): Generate HTML elements from a javascript object. | [homepage](https://github.com/jonschlinkert/html-tag "Generate HTML elements from a javascript object.")
+* [is-self-closing](https://www.npmjs.com/package/is-self-closing): Returns true if the given name is a HTML void element or common SVG self-closing… [more](https://github.com/jonschlinkert/is-self-closing) | [homepage](https://github.com/jonschlinkert/is-self-closing "Returns true if the given name is a HTML void element or common SVG self-closing element.")
+* [snapdragon-cheerio](https://www.npmjs.com/package/snapdragon-cheerio): Snapdragon plugin for converting a cheerio AST to a snapdragon AST. | [homepage](https://github.com/jonschlinkert/snapdragon-cheerio "Snapdragon plugin for converting a cheerio AST to a snapdragon AST.")
+
 ### Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).
